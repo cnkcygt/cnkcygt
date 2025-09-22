@@ -1,4 +1,4 @@
-<img align="right" alt="Deadpool" width="101px" src="https://i.ibb.co/kgMnMG7W/dp.png" />
+<img align="right" alt="Deadpool" width="95px" src="https://i.ibb.co/kgMnMG7W/dp.png" />
 <br>
 
 ## Hi there, I'm Can  🙌 
